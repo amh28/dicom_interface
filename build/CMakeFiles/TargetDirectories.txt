@@ -1,0 +1,4 @@
+/home/alemh/Documents/MasterCS/brasil/qt_vtk/QtDCMSeriesDisplay/build/CMakeFiles/rebuild_cache.dir
+/home/alemh/Documents/MasterCS/brasil/qt_vtk/QtDCMSeriesDisplay/build/CMakeFiles/edit_cache.dir
+/home/alemh/Documents/MasterCS/brasil/qt_vtk/QtDCMSeriesDisplay/build/CMakeFiles/qt_vtk_dcm.dir
+/home/alemh/Documents/MasterCS/brasil/qt_vtk/QtDCMSeriesDisplay/build/CMakeFiles/qt_vtk_dcm_autogen.dir
